@@ -27,6 +27,7 @@
 [Twitter](https://twitter.com/xoshly) 
 <br>
 [LinkedIn](https://www.linkedin.com/in/ashley-r-8b4730167/) <br>
+[CodePen](https://codepen.io/xoshly) <br>
 [DEV Community](https://dev.to/xoshly) <br>
 
 
