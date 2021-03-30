@@ -18,8 +18,8 @@
 * jQuery
 
 
-### Quick Facts
-* *What are you currently learning?* How to work GitHub :laughing:
+### Quick Questions
+* *What are you currently learning?* APIs, JSON, AJAX
 * *What do you do in your spare time?* Write articles for [DEV Community](https://dev.to/)
 
 
