@@ -5,7 +5,7 @@
 * Pronoun (she/her)
 * STEMinist
 * Bubbly Personality
-* Natural-born Teacher
+* Teacher & Student
 * Wife & Mother <br>
 
 
