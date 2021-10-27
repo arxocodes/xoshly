@@ -1,6 +1,6 @@
 # Hey, I'm Ashley :blush:
 
-I am a Frontend Developer with big dreams in the tech world. I am not perfect, but I am passionate. I realized that no matter how challenging programming is, something keeps me here and I am forever grateful for it. I'm not sure what the future holds, but I know that I want my hand involved into something amazing. 
+I am not perfect, but I am passionate. I realized that no matter how challenging programming is, something keeps me here and I am forever grateful for it. I'm not sure what the future holds, but I know that I want my hand involved into something amazing. 
 
 
 ### Learn About Me
@@ -22,9 +22,7 @@ I am a Frontend Developer with big dreams in the tech world. I am not perfect, b
 
 
 ### Contact or Follow Me 
-[Twitter](https://twitter.com/xoshly) 
-<br>
-[LinkedIn](https://www.linkedin.com/in/ashley-r-8b4730167/) <br>
+
 [DEV Community](https://dev.to/xoshly) <br>
 
 
