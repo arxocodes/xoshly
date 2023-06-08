@@ -23,6 +23,7 @@ I am not perfect, but I am passionate. I realized that no matter how challenging
 
 ### Contact or Follow Me 
 
+[XOSHLY.com] (https://www.xoshly.com/) <br>
 [DEV Community](https://dev.to/xoshly) <br>
 
 
